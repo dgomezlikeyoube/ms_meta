@@ -1,3 +1,3 @@
-module github/dgomezlikeyoube/ms_meta
+module github.com/dgomezlikeyoube/ms_meta
 
 go 1.20
